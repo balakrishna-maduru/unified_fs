@@ -1,0 +1,4 @@
+".txt":  "file_system.readers.text_readers.ReadText"
+".csv":  "file_system.readers.text_readers.ReadCsv"
+".json": "file_system.readers.text_readers.ReadJson"
+".yaml": "file_system.readers.text_readers.ReadYaml"
